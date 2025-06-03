@@ -32,4 +32,6 @@ p, ul, li, a {
 #name {
   font-size: 30px;
   font-weight: 700;
+  color: burlywood;
+  text-align: center;
 }
