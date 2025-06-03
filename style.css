@@ -13,11 +13,6 @@ img {
 
 * {
   background-color: black;
-}
-
-p, ul, li, a {
-  color: beige;
-  text-align: left;
 }  
 
 .summary {
