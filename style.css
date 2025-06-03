@@ -12,3 +12,8 @@ img {
 * {
   background-color: black;
 }
+
+p ul {
+  color: beige;
+  text-align: left;
+}
