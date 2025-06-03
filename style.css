@@ -28,3 +28,8 @@ p, ul, li, a {
   border: 5px solid white;
   text-align: center;
 }
+
+#name {
+  font-size: 30px;
+  font-weight: 700;
+}
