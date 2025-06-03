@@ -1,9 +1,14 @@
 
-
-h1 {
-  color: blue;
+.beige {
+  color: beige;
+  text-align: center;
 }
 
-h2 {
-  color: yellow;
+img {
+  width: 400px;
+  height: 600px;
+}
+
+* {
+  background-color: black;
 }
