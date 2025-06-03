@@ -19,3 +19,10 @@ p, ul, li, a {
   color: beige;
   text-align: left;
 }  
+
+.summary {
+  width: 400px;
+  height: 400px;
+  display: inline-block;
+  background-color: whitesmoke;
+}
