@@ -14,7 +14,7 @@ img {
   background-color: black;
 }
 
-p, ul, li {
+p, ul, li, a {
   color: beige;
   text-align: left;
-}
+}  
