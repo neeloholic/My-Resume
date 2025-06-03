@@ -13,7 +13,7 @@ img {
   background-color: black;
 }
 
-p ul {
+p, ul, li {
   color: beige;
   text-align: left;
 }
