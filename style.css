@@ -18,6 +18,8 @@ img {
 .summary {
   background-color: beige;
   padding: 10px;
+  color: black;
+  border-radius: 25%;
 }
 
 #name {
