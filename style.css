@@ -16,12 +16,8 @@ img {
 }  
 
 .summary {
-  width: 400px;
-  height: 400px;
-  display: inline-block;
-  background-color: whitesmoke;
-  border: 5px solid white;
-  text-align: center;
+  background-color: beige;
+  padding: 10px;
 }
 
 #name {
